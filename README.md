@@ -20,4 +20,4 @@ Run `artisan` commands
 	docker run --rm -it -v /path/to/laravel/project:/app xaamin/artisan list
 ```
 
-See all available commands for **artisan** at [http://laravel.com/docs/master/artisan](http://laravel.com/docs/master/artisan)
+See all available commands for **artisan** at [Laravel](http://laravel.com/docs/master/artisan)
