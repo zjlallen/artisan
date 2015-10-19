@@ -15,7 +15,7 @@ Docker container to install and run [Artisan](http://laravel.com/docs/master/art
 You must provide a volume mounted on **/app** containing **Laravel** project
 
 ### Usage
-Run `artisan` commands
+Run `artisan` commands. 
 ```	
 	docker run --rm -it -v /path/to/laravel/project:/app xaamin/artisan list
 ```
